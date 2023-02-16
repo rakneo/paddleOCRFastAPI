@@ -75,7 +75,7 @@ Shapely==1.8.2
 shellcheck-py==0.8.0.4
 six==1.16.0
 sniffio==1.2.0
-starlette==0.19.1
+starlette==0.25.0
 tifffile==2022.5.4
 toml==0.10.2
 tqdm==4.64.0
@@ -87,5 +87,5 @@ virtualenv==20.14.1
 visualdl==2.2.3
 watchgod==0.8.2
 websockets==10.3
-Werkzeug==2.1.2
+Werkzeug==2.2.3
 zipp==3.8.0
