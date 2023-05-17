@@ -75,7 +75,7 @@ Shapely==1.8.2
 shellcheck-py==0.8.0.4
 six==1.16.0
 sniffio==1.2.0
-starlette==0.19.1
+starlette==0.27.0
 tifffile==2022.5.4
 toml==0.10.2
 tqdm==4.64.0
