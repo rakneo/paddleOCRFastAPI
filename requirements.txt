@@ -48,7 +48,7 @@ opt-einsum==3.3.0
 packaging==21.3
 paddle-bfloat==0.1.2
 paddleocr==2.5.0.3
-paddlepaddle==2.3.0
+paddlepaddle==2.5.0
 pandas==1.4.2
 Pillow==9.1.1
 platformdirs==2.5.2
