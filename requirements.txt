@@ -87,5 +87,5 @@ virtualenv==20.14.1
 visualdl==2.2.3
 watchgod==0.8.2
 websockets==10.3
-Werkzeug==2.1.2
+Werkzeug==3.0.1
 zipp==3.8.0
