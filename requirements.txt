@@ -21,7 +21,7 @@ filelock==3.7.0
 flake8==4.0.1
 Flask==2.1.2
 Flask-Babel==2.0.0
-fonttools==4.33.3
+fonttools==4.43.0
 future==0.18.2
 h11==0.13.0
 httptools==0.4.0
