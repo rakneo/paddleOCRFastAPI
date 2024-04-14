@@ -26,7 +26,7 @@ future==0.18.2
 h11==0.13.0
 httptools==0.4.0
 identify==2.5.1
-idna==3.3
+idna==3.7
 imageio==2.19.2
 imgaug==0.4.0
 importlib-metadata==4.11.4
