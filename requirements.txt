@@ -78,7 +78,7 @@ sniffio==1.2.0
 starlette==0.19.1
 tifffile==2022.5.4
 toml==0.10.2
-tqdm==4.64.0
+tqdm==4.66.3
 typing-extensions==4.2.0
 urllib3==1.26.9
 uvicorn==0.17.6
