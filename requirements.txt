@@ -88,4 +88,4 @@ visualdl==2.2.3
 watchgod==0.8.2
 websockets==10.3
 Werkzeug==2.1.2
-zipp==3.8.0
+zipp==3.19.1
