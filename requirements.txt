@@ -17,7 +17,7 @@ decorator==5.1.1
 distlib==0.3.4
 et-xmlfile==1.1.0
 fastapi==0.78.0
-filelock==3.7.0
+filelock==3.20.3
 flake8==4.0.1
 Flask==2.1.2
 Flask-Babel==2.0.0
@@ -80,12 +80,12 @@ tifffile==2022.5.4
 toml==0.10.2
 tqdm==4.64.0
 typing-extensions==4.2.0
-urllib3==1.26.9
+urllib3==2.6.3
 uvicorn==0.17.6
 uvloop==0.16.0
 virtualenv==20.14.1
 visualdl==2.2.3
 watchgod==0.8.2
 websockets==10.3
-Werkzeug==2.1.2
+Werkzeug==3.1.5
 zipp==3.8.0
